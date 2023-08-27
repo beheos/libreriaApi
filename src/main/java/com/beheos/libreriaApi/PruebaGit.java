@@ -2,5 +2,6 @@ package com.beheos.libreriaApi;
 
 public class PruebaGit {
 
-	private String nombre;
+	
+	private String paterno;
 }
